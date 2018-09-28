@@ -1,4 +1,4 @@
-# Atividade
+# Aplicação
 
 Você trabalha em uma financeira e precisa desenvolver um esquema para empréstimo. Você deve perguntar a renda, a idade e o valor que o cliente quer emprestar.
 As regras são:
