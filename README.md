@@ -1,14 +1,24 @@
-# Aplicação
+# Loan Simulator :moneybag:
 
-Você trabalha em uma financeira e precisa desenvolver um esquema para empréstimo. Você deve perguntar a renda, a idade e o valor que o cliente quer emprestar.
-As regras são:
+### Description 
+Imagine that you work in a finance company and need to develop a loan scheme. You must ask the income, age and amount the customer wants to borrow.
 
-1. Somente aprovar para clientes que tenham entre 21 a 55 anos;
-2. Renda deve ser superior a R$1000,00;
-3. O valor do empréstimo não pode ser maior do que 15x o valor do salário do cliente;
-4. Não emprestamos menos que R$500,00.
+As rules are:
+1. Only approve for customers who are between 21 and 55 years old;
+2. Income must be greater than R $ 1000.00;
+3. The loan amount cannot be greater than 15x the client's salary amount;
+4. We do not lend less than R $ 500.00.
 
-Uma vez que o empréstimo tenha sido aprovado, perguntar em quantas parcelas o ciente quer parcelar o valor do empréstimo.
-Parcelamos entre 3 e 24 vezes.
+Once the loan has been approved, ask how many installments the customer wants to install the loan amount into.
+We split between 3 and 24 times.
 
-Calcular e exibir no console que o empréstimo foi aprovado, o número de parcelas e o valor de cada parcela considerando que nossa taxa de juros é de 8.5%.
+Calculate and display on the console that the loan was approved, the number of installments and the value of each installment considering that our interest rate is 8.5%. :money_with_wings:
+
+## How to Run
+- Clone this repository
+- Open the project folder
+- Double-click on the index.js file, as soon afterwards you will be redirected to the browser with the application running.
+
+### License
+
+MIT © Beatriz Nonato :woman_technologist:
