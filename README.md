@@ -17,7 +17,7 @@ Calculate and display on the console that the loan was approved, the number of i
 ## How to Run
 - Clone this repository
 - Open the project folder
-- Double-click on the index.js file, as soon afterwards you will be redirected to the browser with the application running.
+- Double-click on the index.html file, as soon afterwards you will be redirected to the browser with the application running.
 
 ### License
 
