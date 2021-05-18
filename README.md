@@ -12,7 +12,7 @@ As rules are:
 Once the loan has been approved, ask how many installments the customer wants to install the loan amount into.
 We split between 3 and 24 times.
 
-Calculate and display on the console that the loan was approved, the number of installments and the value of each installment considering that our interest rate is 8.5%. :money_with_wings:
+Calculate and <b>display on the console</b> that the loan was approved, the number of installments and the value of each installment considering that our interest rate is 8.5%. :money_with_wings:
 
 ## How to Run
 - Clone this repository
